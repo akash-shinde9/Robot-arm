@@ -10,6 +10,8 @@ The "justgesture.ino" file is the bare minimum code to control the robotic-arm w
 
 "This is the main arduino where you can load the code file such as "justgesture" and "recordandplay"
 
+![image](https://user-images.githubusercontent.com/121758341/232416036-eb957547-9998-4fc4-a6d3-09271d296ce5.png)
+
 ![image](https://user-images.githubusercontent.com/121758341/232397852-9cb7af0b-c635-417b-aa0a-421a6e8d795d.png)
 
 "This is the second arduino where the "rfid" code is loaded 
@@ -42,5 +44,4 @@ How to Build the structure of the robotic-arm
 
 ![image](https://user-images.githubusercontent.com/121758341/232407326-41cad743-8acc-4dcc-ad76-27748fa2df55.png)
 
-![image](https://user-images.githubusercontent.com/121758341/232416036-eb957547-9998-4fc4-a6d3-09271d296ce5.png)
 
