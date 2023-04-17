@@ -1,8 +1,7 @@
 /*
    Robotic ARM with Record and Play option using Arduino
-   Code by: B. Aswinth Raj
-   Website: www.circuitdigest.com
-   Dated: 05-08-2018
+   Code by: Akash Shinde
+   Dated: 10-04-2023
 */
 
 #include <Servo.h> //Servo header file
