@@ -3,6 +3,7 @@ The title of this project is "RFID SECURED GESTURE CONTROLLED ROBOTIC ARM WITH R
 Implement as told in this readme file and you will successfully be able to create your own robotic-arm
 
 For any queries mail me at "99akashshinde99@gmail.com"
+
 The "justgesture" file is the bare minimum code to control the robotic-arm with gestures by moving the potentiometer placed on the second arm.
 
 "rfidone.txt" this file is to be uploaded on the other arduino which that has just one servo connected to it. It is used for identifying the correct tag if the tag is verified then it will perform the code present in the if statement which is moving the servo arm so that it can press the button.
