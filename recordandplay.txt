@@ -1,5 +1,5 @@
 /*
-   Robotic ARM with Record and Play option using Arduino
+   RFID SECURED GESTURE CONTROLLED ROBOTIC ARM WITH RECORD AND PLAYBACK FEATURE
    Code by: Akash Shinde
    Dated: 10-04-2023
 */
