@@ -41,3 +41,6 @@ How to Build the structure of the robotic-arm
 ![image](https://user-images.githubusercontent.com/121758341/232407293-e4f8817d-14e2-43e1-bcbc-18888f1538ca.png)
 
 ![image](https://user-images.githubusercontent.com/121758341/232407326-41cad743-8acc-4dcc-ad76-27748fa2df55.png)
+
+![image](https://user-images.githubusercontent.com/121758341/232416036-eb957547-9998-4fc4-a6d3-09271d296ce5.png)
+
