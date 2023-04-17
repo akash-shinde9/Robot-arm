@@ -1,0 +1,11 @@
+Hardware Requirement:
+
+1. sg90 servo motor X5
+2. 10k potentiometer X4
+3. Arduino UNO X2
+4. Breadboard X2
+5. RFID reader and 2 tag set
+6. Jumper wires (male-2-male, male-2-female)
+7. Normal wires
+
+NO EXTERNAL POWER SOURCE REQUIRED
