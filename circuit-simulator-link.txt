@@ -1,3 +1,0 @@
-https://wokwi.com/projects/362232933461822465
-
-"this is the link to my circuit that i designed using wokwi simulator"
