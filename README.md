@@ -14,7 +14,7 @@ The "justgesture" file is the bare minimum code to control the robotic-arm with 
 
 ![image](https://user-images.githubusercontent.com/121758341/232398011-799b831e-cbf4-4bdb-b675-784cd92a368c.png)
 
-"This is how the arduino is placed
+"This is how the servo is placed so that when the arm of servo moves down it hits the button and supplies the power to the servo and potentiometer
 
 ![image](https://user-images.githubusercontent.com/121758341/232401842-f7e4bfd3-e6ee-4e05-813e-a1eaffc7d643.png)
 
